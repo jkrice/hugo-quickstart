@@ -17,3 +17,5 @@ fields:
     required: false
   label: text
   hidden: false
+pages:
+- content/forestry-post.md
